@@ -13,11 +13,11 @@ if (n % 2 == 0)
     // se o numero for par  (somatório do numero!)
     somatorio = somatorio + n;
 
-    n = n + 1;
+    
   }
 
 
-
+n = n + 1;
 
     
   }
