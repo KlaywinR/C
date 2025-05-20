@@ -3,8 +3,8 @@
 
 int main(void){
 
-    char nome[30];  // declaracao de string
-    char nome2[30];  // declaracao de string
+    char nome[30];  // recebe a string
+    char nome2[30];  // recebe  de string string= palavra 
     int numero;
 
 
