@@ -1,12 +1,4 @@
-//Em uma competição masculina de natação de 1500 metros nado livre, há apenas três competidores
-//na grande final. Desenvolva um programa em linguagem C que receba os nomes e os tempos de
-//prova destestrês competidores. Os tempos de prova devem ser informados em três partes: minutos,
-//egundos e centésimos. O seu programa deve exibir os nomes dos atletas ordenados de acordo com
-
-//a classificação final da prova. O recorde mundial da prova é de 14:30.67, estabelecido pelo norte-
-//americano Bobby Finke nos Jogos Olímpicos de Paris 2024. Caso o tempo de prova do vencedor seja
-
-//melhor do que o de Bobby Finke, seu programa deve informar que o recorde mundial foi quebrado.
+// nesta questao tive a ajuda de tiago &  maicon
 #include <stdio.h>
 int main(void){
     char nomedoatleta01[50], nomedoatleta02[50], nomedoatleta03[50];

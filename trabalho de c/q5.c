@@ -1,3 +1,6 @@
+
+//
+
 #include <stdio.h>
 int main(void) {
     int prato_principal, a_sobremesa, bebida;
