@@ -1,4 +1,4 @@
-// nesta questao tive a ajuda de tiago &  maicon
+// nesta questao tive a ajuda de tiago &  maicoon
 #include <stdio.h>
 int main(void){
     char nomedoatleta01[50], nomedoatleta02[50], nomedoatleta03[50];
