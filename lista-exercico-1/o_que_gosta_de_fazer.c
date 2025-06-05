@@ -12,7 +12,7 @@ int main(void)
     printf("\n POR QUAL MOTIVO VOCE SE CANDIDATOU A ESTA VAGA?");
     scanf(" %[^\n]", motivo_da_vaga);
 
-    printf("\n NOS DIGA OS SEUS PRINCIPAIS PONTOS FORTES:");
+    printf("\n NOS DIGA OS SEUS PRINCIPAIS PONTOS   FORTES:");
     scanf(" %[^\n]", principais_pontos_fortes_do_candidato);
 
     printf("\n FALE UM POUCO SOBRE A SUA TRAJETORIA ACADEMICA:");
