@@ -11,17 +11,17 @@ int main(){
 
     while (TRUE)
     {
-        printf("\n============== NOSSO MENU ================\n");
+        printf("\n========= NOSSO MENU =============\n");
         printf("\n[1] NOSSO MISTO QUENTE --- 5,00");
         printf("\n[2] NOSSO CHEESE BURGUER --- 10,00 ");
         printf("\n[3] NOSSO SUCO --- 6,00");
         printf("\n[4] NOSSO REFRIGERANTE --- 3,50");
         printf("\n[0] ENCERRANDO A SUA COMPRA\n");
         printf("=====================================");
-        printf("\nSELECIONE O PRODUTO QUE DESEJA:\n");
+        printf("\nSELECIONE O PRODUTO QUE DESEJaA:\n");
         scanf("%2.lf", &produto_escolhido);
 
-        switch (produto_escolhido)
+        switch (produto_escolhido ) 
         {
         case 1:
             valor_conta += 5;
