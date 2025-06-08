@@ -14,7 +14,7 @@ int main(void)
     {
         resultado += a;
     }
-    printf(" O RESULTADIO GERAL DA MULTIPPLICAÇÃO EH---> %d\n", resultado);
+    printf(" O rESULTADIO GERAL DA MULTIPPLICAÇÃO EH---> %d\n", resultado);
     printf(" o resultado da multiplicacao eh de %d x %d x %d", a, b, c, i);
     printf(" = %d\n", resultado);
     printf(" o resultado eh %d\n", resultado);
