@@ -7,8 +7,6 @@ int main()
 {
   srand(time(NULL));
   int tabuleiro[10][10] = {0};
-  int numero_tentativas = 0;
-  int numeros_encontrados = 0;
   int modo_de_jogo;
   printf("\n===== SEJA BEM VINDO AO JOGO DESCUBRA UNS ====\n");
   printf("\n ---- ESCOLHA O MODO DE JOGO ---- \n");
@@ -21,7 +19,7 @@ int main()
   {
     for (int j = 0; j < N_COLUNAS; j++)
     {
-          printf("%d", tabuleiro[i][j]);
+          printf(" %d", tabuleiro[i][j]);
     }
     printf("\n");
   }
