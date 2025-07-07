@@ -27,9 +27,7 @@ int main()
         resultado = media_notas(nota01, nota02, nota03, nota04, nota05);
         puts("\n");
         puts("\n--------------------------------------\n");
-        printf("A MEDIA GERAL DO ALUNO |%d| EH: %2.f\n", i + 1 ,resultado);
-        
-        
+        printf("A MEDIA GERAL DO ALUNO |%d| EH: %2.f\n", i + 1, resultado);
     }
 
     return 0;
