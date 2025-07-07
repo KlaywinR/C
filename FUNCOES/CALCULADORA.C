@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <math.h>
-
+  //PROTOTIPO DE UMA FUNÇÃO./
 float soma(float a, float b);
 float multiplicacao(float a, float b);
 float divisao(float a, float b);
