@@ -1,5 +1,7 @@
 {
     "files.associations": {
-        "contando1-4.C": "cpp"
+        "CALCULADORA.C": "cpp",
+        "FUNÇÃO.IF.C": "cpp",
+        "FUNÇÃO.IF07.07.C": "cpp"
     }
 }
