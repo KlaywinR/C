@@ -15,6 +15,12 @@ Neste repositório está contido códigos, funções e algoritmos desenvolvidos 
 ## Klaywin Ryan Aquino Dias
 Discente de Análise e Desenvolvimento de Sistemas – IFRN Campus Nova Cruz.
 
+Meu GitHub: github.com/klaywingit
+
+E-mail: klaywin@email.com
+
+LinkedIn: linkedin.com/in/klaywin:
+
 ## “A prática constante é o que transforma um programador iniciante em um mestre da lógica.”
 
 
