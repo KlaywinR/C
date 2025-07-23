@@ -62,6 +62,12 @@ void mostrarFuncionario(struct FUNCIONARIOS *funcionarios)
     printf("\nSEXO: %s\n", funcionarios->sexo);
     puts("xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx");
 } 
+
+
+
+
+
+
 int main() {
     struct FUNCIONARIOS FUNCIONARIOS [N_max]; // vetor de alunos
     int quantidade, i;
