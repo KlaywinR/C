@@ -1,4 +1,4 @@
-# Projetos em Linguagem C ![C Logo](https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png)
+# Projetos em Linguagem C <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C Logo" width="30"/>
 
 Neste repositório está contido códigos, funções e algoritmos desenvolvidos em linguagem C para fins de estudo, prática e desenvolvimento da lógica de programação.
 
@@ -14,8 +14,6 @@ Neste repositório está contido códigos, funções e algoritmos desenvolvidos 
 Discente de Análise e Desenvolvimento de Sistemas – IFRN Campus Nova Cruz.
 
 ## “A prática constante é o que transforma um programador iniciante em um mestre da lógica.”
-
-
 
 
 
