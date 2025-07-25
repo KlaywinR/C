@@ -1,4 +1,4 @@
-# Projetos em Linguagem C <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C Logo" width="30"/>
+# Projetos em Linguagem C
 
 Neste repositório está contido códigos, funções e algoritmos desenvolvidos em linguagem C para fins de estudo, prática e desenvolvimento da lógica de programação.
 
