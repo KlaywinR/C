@@ -10,7 +10,7 @@ Neste repositório está contido códigos, funções e algoritmos desenvolvidos 
  Estruturas de repetição e decisão
  Estruturas de dados (pilha, fila, listas)
  Exercícios resolvidos e comentados
-
+ 
 
 ## Klaywin Ryan Aquino Dias
 Discente de Análise e Desenvolvimento de Sistemas – IFRN Campus Nova Cruz.
