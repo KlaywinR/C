@@ -10,7 +10,7 @@ int main(void)
 
     if (arquivo != NULL)
     {
-        printf(" ** Arquivo aberto com sucesso!");
+        printf(" ** Arquivo aberto com sucessoo!");
         // operacoes
         fprintf(arquivo, "%s", "Meu primeiro arquivo de texto");
         fprintf(arquivo, "\n%i", n_cidades);
