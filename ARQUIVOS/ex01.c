@@ -12,7 +12,7 @@ int main(void)
     {
         printf(" ** Arquivo aberto com sucessoo!");
         // operacoes
-        fprintf(arquivo, "%s", "Meu primeiro arquivo de texto");
+        fprintf(arquivo, "%s", "o meu primeiro arquivo de texto");
         fprintf(arquivo, "\n%i", n_cidades);
 
         char cidades[][40] = {"Serrinha", "Monte Alegre", "Nova Cruz",
