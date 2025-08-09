@@ -1,13 +1,5 @@
 {
     "files.associations": {
-        "CALCULADORA.C": "cpp",
-        "FUNÇÃO.IF.C": "cpp",
-        "FUNÇÃO.IF07.07.C": "cpp",
-        "FUNCÃO.C.EX01.C": "cpp",
-        "FUNCÃO.VALOR-FATORIAL.C.EX01.C": "cpp",
-        "contando1-4.C": "cpp",
-        "FUNCÃ0.01.C": "cpp",
-        "07.C": "cpp",
-        "stdio.h": "c"
+        "contando1-4.C": "cpp"
     }
 }
