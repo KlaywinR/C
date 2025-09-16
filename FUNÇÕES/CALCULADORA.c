@@ -6,7 +6,8 @@ float multiplicacao(float a, float b);
 float divisao(float a, float b);
 float subtracao(float a, float b);
 float potencia(float base, float expoente);
-void mostrar_menu(); // INT NOTAS_DE_ALUNOS(NOTA1, NOTA2, NOTA3)
+void mostrar_menu();
+ // INT NOTAS_DE_ALUNOS(NOTA1, NOTA2, NOTA3)
 /////////////////////////////////////////////////////////////////
 float soma(float a, float b)
 {
@@ -61,7 +62,7 @@ int main()
             scanf("%f", &num2);
         }
         switch (opcao_escolhida)
-        {
+        
         case 1:
             resultado = soma(num1, num2);
             printf("resultado: %.2f\n", resultado);
