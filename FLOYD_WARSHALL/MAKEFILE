@@ -1,0 +1,16 @@
+CC = gcc
+CFLAGS = -Wall -Iinclude
+
+SRC = src/main.c \
+      src/menu/menu.c \
+      src/data/data_io.c \
+      src/algorithm/floyd_warshall.c \
+      src/io/print.c
+
+OUT = floyd
+
+all:
+	$(CC) $(SRC) $(CFLAGS) -o $(OUT)
+
+clean:
+	rm -f floyd
